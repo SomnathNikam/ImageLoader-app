@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@drawable/download">
+
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="300dp"
+        android:layout_height="400dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+       />
+    <Button
+        android:id="@+id/angry_btn"
+        android:layout_marginTop="40dp"
+        android:text="Load image"
+        android:textSize="20sp"
+        android:textColor="#1FFFFE"
+        android:gravity="center"
+
+        android:layout_gravity="center"
+        android:layout_width="250dp"
+        android:layout_height="64dp"
+        android:background="@drawable/shape"
+        android:shadowColor="#FBFFF9"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        />
+
+
+</LinearLayout>
