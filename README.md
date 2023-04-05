@@ -17,4 +17,4 @@ An app that gives a new Image after click the button every time it loads new ima
 
 # Installation
 
-Download the project either by git clone or download and extract the zip, then load the project in your android studio. You are free to do the modifications as your wish, You can even directly try app by installing in your phone, the apk file is in "Apk releases" folder, or you can get it by clicking here.
+Download the project either by git clone or download and extract the zip, then load the project in your android studio. You are free to do the modifications as your wish, You can even directly try app by installing in your phone, the apk file is in "Apk releases" folder, or you can get it by clicking here Apk Releases/app-debug.apk.
