@@ -13,7 +13,7 @@ An app that gives a new Image after click the button every time it loads new ima
 
 # VideoRecording
 <br>
-Click this below link to see the Video Recording(Only for Mobile app of Github).
+Click this below link to see the Video Recording(Only for Mobile app version of Github).
 <br>
 
 
