@@ -11,14 +11,10 @@ An app that gives a new Image after click the button every time it loads new ima
 ![Screenshot_3](https://user-images.githubusercontent.com/117519166/230546799-cfc27dae-fb3b-4320-8035-2a27dbd1253e.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/117519166/230546832-1148f448-c87d-48ff-9021-aa9cf2254dab.png)
 
-# VideoRecording
-<br>
-Click this below link to see the Video Recording(Only for Mobile app version of Github).
-<br>
 
 
 
-https://user-images.githubusercontent.com/117519166/235460961-dab0dd3a-2179-4f29-b0c2-6ae0e43312ef.mp4
+
 
 
 
